@@ -1,0 +1,2 @@
+# USING-MACHINE-LEARNING-FOR-SENTIMENT-ANALYSIS-ON-SOCIAL-MEDIA
+This project analyzes user reviews on an e-commerce site using logistic regression. Reviews are cleaned, processed, and transformed into features using TF-IDF. The model classifies reviews as positive, negative, or neutral, with hyperparameter tuning via GridSearchCV. Performance is evaluated using accuracy, precision, recall, and F1-score.
